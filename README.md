@@ -1,4 +1,4 @@
-## **AMBIENTE COMPLETO AWS WORDPRESS**
+## **AMBIENTE COMPLETO AWS WORDPRESS COM RDS**
 
 <img width="870" alt="servicosaws" src="https://github.com/Noob-Saibot-227410/website-a-venda-template-loja-sapatos-roupas/assets/115899706/88a78c2f-f7c7-4eb5-a6ab-c8964f57be9e">
 
