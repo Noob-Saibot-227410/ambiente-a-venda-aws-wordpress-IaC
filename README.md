@@ -23,10 +23,6 @@ Este projeto oferece uma solução eficiente e automatizada para implantar o Wor
 
 ![1624631149988](https://github.com/Noob-Saibot-227410/website-a-venda-template-loja-sapatos-roupas/assets/115899706/2a28c348-ad8d-483e-b070-f3527e8deea2)
 
-<br>
-
-![1560791149890](https://github.com/Noob-Saibot-227410/website-a-venda-template-loja-sapatos-roupas/assets/115899706/ce9ebb5e-1294-40ce-9184-1556453d2243)
-
 <hr>
 
 ## COMPRA DO PROJETO 💵
